@@ -5,8 +5,7 @@ public class BienImmob {
     String Etat_bien;
     double Prix_achat;
     double loyer_mensuel;
-    double charge_mensuel;
+    
 
 
-	
 }
