@@ -1,11 +1,12 @@
 
 public class Appartement {
-    char Description;
+    
+	char Description;
 	int Loc_Etage;
 	int Ascenceur;
 	int Cuisine_Equipee;
 
-    public char getDescription() {
+	public char getDescription() {
 		return Description;
 	}
 
@@ -21,7 +22,7 @@ public class Appartement {
 		this.Loc_Etage = Loc_Etage;
 	}
 
-    public int getAscenceur() {
+	public int getAscenceur() {
 		return Ascenceur;
 	}
 
@@ -29,7 +30,7 @@ public class Appartement {
 		this.Ascenceur = Ascenceur;
 	}
 
-    public int getCuisine_Equipee() {
+	public int getCuisine_Equipee() {
 		return Cuisine_Equipee;
 	}
 
