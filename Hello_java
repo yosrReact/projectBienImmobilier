@@ -1,0 +1,14 @@
+public class studio{
+int Etage ;
+
+public int getEtage (){
+return Etage;
+
+}
+public void set studio(int Etage){
+         this.Etage = Etage;
+         
+}
+
+
+}
