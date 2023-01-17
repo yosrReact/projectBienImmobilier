@@ -1,4 +1,3 @@
-
 public class Contrat {
 	int noContrat;
 	float prixEffectif;
