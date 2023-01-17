@@ -8,5 +8,4 @@ public class BienImmob {
     double charge_mensuel;
 
 
-	
 }
