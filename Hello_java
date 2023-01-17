@@ -8,6 +8,8 @@ return etage;
 public void set studio(int etage){
          this.etage = etage;
          System.out.println("hello")
+         System.out.println("2eme hello")
+
          
 }
 
