@@ -1,5 +1,3 @@
-import javafx.beans.binding.When.NumberConditionBuilder;
-
 public class Proprietaire {
     int nProp;
 
@@ -19,5 +17,7 @@ public class Proprietaire {
         public void setNProp(int numtel){
             this.numtel = numtel;
         }
+
+// ajout de la variable nom
 
 }
