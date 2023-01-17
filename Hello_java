@@ -1,16 +1,13 @@
 public class studio{
-int Etage ;
+int etage ;
 
 public int getEtage (){
-return Etage;
+return etage;
 
 }
-public void set studio(int Etage){
-         this.Etage = Etage;
+public void set studio(int etage){
+         this.etage = etage;
          
 }
-####
-
-+
 
 }
